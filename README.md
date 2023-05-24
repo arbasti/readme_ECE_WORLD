@@ -11,12 +11,11 @@ Le créateur du TileSet : https://brysiaa.itch.io/pixel-tileset-grass-island
 
 **Voici notre tileset final :**
 
-<img width="200" alt="my_tileset_2" src="https://github.com/ING1-Paris/ece-world-paris-ing1-2022-2023-equipe-10-td13/assets/90555409/92c40d04-d6fb-4dcf-bc15-5c2b9994df46">
-
+<img width="200" alt="my_tileset_2" src="https://github.com/arbasti/readme_ECE_WORLD/assets/90555409/d72280f6-6afc-4545-b229-7a0d76aecc28">
 
 **Voici la map principale :**
 
-<img width="640" alt="my_tileset_2" src="https://github.com/ING1-Paris/ece-world-paris-ing1-2022-2023-equipe-10-td13/assets/90555409/53958167-c611-486e-acb2-34da25b08d55">
+<img width="640" alt="map_final" src="https://github.com/arbasti/readme_ECE_WORLD/assets/90555409/944a54bc-2172-4b47-9dcb-e8c5700d89c2">
 
 ## Avancée du Projet :
 
@@ -115,7 +114,7 @@ https://github.com/arbasti/readme_ECE_WORLD/assets/90555409/1bc1b2a7-c539-4941-a
 
 #### Menu Princiapal (Gabriel) :
 
-<img width="640" alt="menu_goombattack" src="https://github.com/ING1-Paris/ece-world-paris-ing1-2022-2023-equipe-10-td13/assets/90555409/780dae27-b066-4703-9d5b-c15da9efa2ec">
+<img width="640" alt="menu_goombattack" src="https://github.com/arbasti/readme_ECE_WORLD/assets/90555409/921a24af-5339-4bf7-a831-911320ceb231">
 
 #### Les Maps :
 
@@ -123,19 +122,21 @@ https://github.com/arbasti/readme_ECE_WORLD/assets/90555409/1bc1b2a7-c539-4941-a
 2) Calque de collision
 3) Map Final Définitive
 
-<img width="320" alt="map_goombattack" src="https://github.com/ING1-Paris/ece-world-paris-ing1-2022-2023-equipe-10-td13/assets/90555409/6c8b3fd2-b942-4f69-a6ef-f2966b38d1a0">
-<img width="320" alt="map_goombattack_collision" src="https://github.com/ING1-Paris/ece-world-paris-ing1-2022-2023-equipe-10-td13/assets/90555409/ba219a57-482a-4638-bf9d-3af57c9d1d63">
-<img width="320" alt="map_goomba_tap" src="https://github.com/ING1-Paris/ece-world-paris-ing1-2022-2023-equipe-10-td13/assets/90555409/2dca3887-d2f0-48a1-8f33-18e22dca4d6d">
+<img width="320" alt="map_goombattack_first" src="https://github.com/arbasti/readme_ECE_WORLD/assets/90555409/2e97f188-b63f-48e0-8540-656780615811">
+<img width="320" alt="goombattack_map_collision" src="https://github.com/arbasti/readme_ECE_WORLD/assets/90555409/34d50643-f9ca-4f10-84d0-d71cb8e97933">
+<img width="320" alt="map_goomba_tap" src="https://github.com/arbasti/readme_ECE_WORLD/assets/90555409/7f5cdbc5-cab6-4739-9ed3-a34a843ac663">
+
 
 #### Les Personnages :
 
 **Mario 32x32 :**
 
-<img width="80" alt="tileset_mario" src="https://github.com/ING1-Paris/ece-world-paris-ing1-2022-2023-equipe-10-td13/assets/90555409/2c69037d-3a2e-4632-8844-68485d8e5b1d">
+<img width="80" alt="tileset_mario" src="https://github.com/arbasti/readme_ECE_WORLD/assets/90555409/c9f8ba31-0cf7-49c8-b9cf-bf7eda472b01">
 
 **Goomba 48x48 :**
 
-<img width="72" alt="tileset_goomba" src="https://github.com/ING1-Paris/ece-world-paris-ing1-2022-2023-equipe-10-td13/assets/90555409/06afee00-360d-42b8-a89d-60facbb70486">
+<img width="72" alt="tileset_goomba" src="https://github.com/arbasti/readme_ECE_WORLD/assets/90555409/e5e8b032-2c3f-4f7c-81d3-bc70c743faaf">
+
 
 ### Développement 1/5 :
 
@@ -185,7 +186,7 @@ https://github.com/arbasti/readme_ECE_WORLD/assets/90555409/27e01cdd-4af9-4429-b
 
 ### Développement 6/5 :
 
-[Video](https://www.youtube.com/watch?v=Tg0Cm3iq3xc&ab_channel=Bastiooo)
+[Video Final](https://www.youtube.com/watch?v=Tg0Cm3iq3xc&ab_channel=Bastiooo)
 
 **Update :**
 - Dernière modification lors de l'assemblage
